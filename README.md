@@ -3,8 +3,8 @@
   <h3>6-Month Web Development Training Roadmap</h3>
   <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Web-Development-Roadmap)](https://github.com/jundel-malazarte/Web-Development-Roadmap/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Web-Development-Roadmap)](https://github.com/jundel-malazarte/Web-Development-Roadmap/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/jundel-malazarte/web-development-roadmap)](https://github.com/jundel-malazarte/web-development-roadmap/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/jundel-malazarte/web-development-roadmap)](https://github.com/jundel-malazarte/web-development-roadmap/network/members)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jundel-malazarte.web-development-roadmap)
 
 
