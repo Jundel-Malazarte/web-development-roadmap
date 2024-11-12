@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gif/web.gif" alt="Icreatechs Logo">
+  <img src="./assets/gif/web.gif" alt="MyLogo">
   <h3>6-Month Web Development Training Roadmap</h3>
   <div align="center">
 
@@ -7,8 +7,6 @@
 [![GitHub Forks](https://img.shields.io/github/forks/jundel-malazarte/web-development-roadmap)](https://github.com/jundel-malazarte/web-development-roadmap/network/members)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jundel-malazarte.web-development-roadmap)
 
-
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus) -->
 </div>
 
 </div>
@@ -35,7 +33,7 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 
 | Week | Goals                                                      | Tasks                                                  | Resources                                                 |
 |------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
-| 1-2  | Introduction to Web Development                           | - Set up [GitHub](https://github.com/) account<br>- Create [LinkedIn](https://www.linkedin.com/) profile | - [GitHub Guide](https://guides.github.com/activities/hello-world/)<br>- [LinkedIn Profile Tips](https://www.linkedin.com/pulse/linkedin-profile-extreme-makeover-2021-adam-reece/) <br> - Follow me on GitHub ([carlcastanas](https://github.com/carlcastanas)) for future collaboration opportunities<br>- Join our vibrant and supportive [Discord community](https://discord.com/invite/44JBBe62fx) with over 17,000 members |
+| 1-2  | Introduction to Web Development                           | - Set up [GitHub](https://github.com/jundel-malazarte) account<br>- Create [LinkedIn](https://www.linkedin.com/) profile | - [GitHub Guide](https://www.geeksforgeeks.org/web-development/)<br>- [LinkedIn Profile Tips](https://www.linkedin.com/pulse/linkedin-profile-extreme-makeover-2021-adam-reece/) <br> - Follow me on GitHub ([jundelmalazarte](https://github.com/jundel-malazarte)) for future collaboration opportunities<br>- Join our vibrant and supportive [Discord community](https://discord.com/invite/Eu9PS52Kb2) with over 10 members |
 | 3-4  | HTML Basics                                                | - Learn about [HTML](https://www.w3schools.com/html/) syntax<br>- Build a personal portfolio webpage | - [HTML Introduction - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction) |
 | 5-6  | CSS Fundamentals                                          | - Understand [CSS](https://www.w3schools.com/css/) properties and styling techniques<br>- Style your portfolio page | - [CSS Basics - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) |
 
